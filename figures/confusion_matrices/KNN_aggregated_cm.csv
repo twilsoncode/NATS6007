@@ -1,0 +1,8 @@
+,Pred: ZnCl$_2$,Pred: 13T/12A,Pred: 20A/5T,Pred: 20T/5A,Pred: 25A,Pred: 25T,Pred: Standard
+True: ZnCl$_2$,45,22,6,4,2,1,0
+True: 13T/12A,19,35,14,10,1,1,0
+True: 20A/5T,8,17,36,10,0,9,0
+True: 20T/5A,9,23,18,13,3,14,0
+True: 25A,2,3,2,3,61,4,5
+True: 25T,3,5,18,9,6,38,1
+True: Standard,6,2,0,1,9,2,61
