@@ -1,5 +1,5 @@
 ---
-# NATS6007 - Levitated Optomechanical Classification of DNA Sequences: Integration of Machine Learning and Automated Pressure Control
+# NATS6007 - Levitated Optomechanical Classification of DNA Sequences: Integration of Machine Learning, Automated Pressure Control and Imaging Techniques
 
 This repository contains code used in my placement report work for the NATS6007 module. This research was carried out at the [University of Southampton](https://www.southampton.ac.uk/) under the supervision of [Prof Hendrik Ulbricht](https://www.southampton.ac.uk/people/5x5wz8/professor-hendrik-ulbricht) and [Dr Owen Rackham](https://www.southampton.ac.uk/people/5y9xv6/doctor-owen-rackham).
 
