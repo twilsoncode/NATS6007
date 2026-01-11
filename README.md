@@ -1,5 +1,5 @@
 ---
-# NATS6007 - Examining detection limits in levitated optomechanical classification of oligonucleotides via machine learning, imaging, and automated data collection
+# NATS6007 - Using machine learning to examine detection limits of oligonucleotide classification in levitated optomechanics with automated data collection and imaging
 
 This repository contains code used in my placement report work for the NATS6007 module. This research was carried out at the [University of Southampton](https://www.southampton.ac.uk/) under the supervision of [Prof Hendrik Ulbricht](https://www.southampton.ac.uk/people/5x5wz8/professor-hendrik-ulbricht) and [Dr Owen Rackham](https://www.southampton.ac.uk/people/5y9xv6/doctor-owen-rackham).
 
