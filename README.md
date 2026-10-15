@@ -44,10 +44,6 @@ To check that these packages are installed, use the `pip list` command to see al
 The code in the folder `auto_press` is for the automated pressure control for saving `.Wfm.bin` files from the R&S RTO2014 Oscilloscope over a local wired ethernet connection. A [Raspberry Pi 5 8 GB model](https://www.raspberrypi.com/products/raspberry-pi-5/) was used with an [ADC Pi](https://www.abelectronics.co.uk/p/69/adc-pi) connected to an [Agilent Technologies FRG-720 Gauge](https://www.agilent.com/en/product/vacuum-technologies/vacuum-measurement/active-gauges/frg-720-730-full-range-pirani-bayard-alpert-gauge). A potential divider halves the input 0 - 10 V signal such that it can be read within the 0 - 5 V range of the ADC board. An equation converts the input voltage to pressure, where the input voltage is scaled up 2x in code. When the desired pressure value is reached +/- a specified percentage range, the Raspberry Pi sends a signal to the IP address on the oscilloscope to save the raw data locally. A PDF file `RPi_saving_doc` also provides details on the setup.
 
 ---
-### Project Figures
-The code in the folder `figures` details how the figures have been generated from the output data as presented in the paper.
-
----
 ### Optoanalysis Tool
 The code in the folder `opto_tool` is the GUI used to analysis the `.bin` files from the R&S Oscilloscope. There is a `README.txt` file in the folder with specific instructions on how it works.
 
